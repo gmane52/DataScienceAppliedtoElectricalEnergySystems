@@ -7,3 +7,5 @@ The project focuses on three main tasks: supervised learning to predict day-ahea
 Initial exploratory data analysis (EDA) was conducted to ensure the dataset was clean, visualized, and ready for modelling. The supervised learning model was rigorously evaluated using metrics such as RMSE, MAE, and R², while clustering methods like Kmeans and hierarchical clustering revealed significant patterns in price behaviours. PCA was applied to reduce data complexity and assess its impact on model performance, enhancing computational efficiency.
 
 This report synthesizes these methodologies to offer a structured framework for applying machine learning to electricity market data. The findings contribute to the growing discourse on utilizing data science to improve energy system operations and support decision-making in an evolving market landscape.
+
+This work has been carried out by a team formed by Alex Blanco, Guillem Mañé, Alex Vea, Ivan Moreno and Gvidas Andzevicius.
